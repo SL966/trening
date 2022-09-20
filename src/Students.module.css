@@ -1,0 +1,72 @@
+
+
+.junior {
+    background: cornflowerblue; /* Цвет фона */
+    outline: 2px solid #000; /* Чёрная рамка */
+    border: 3px solid #fff; /* Белая рамка */
+    border-radius: 2px; /* Радиус скругления */
+    color: greenyellow;
+    margin-left: auto;
+    margin-right: 10px;
+    margin-top: 20px
+}
+
+.midl {
+    background: cornflowerblue; /* Цвет фона */
+    outline: 2px solid #000; /* Чёрная рамка */
+    border: 3px solid #fff; /* Белая рамка */
+    border-radius: 2px; /* Радиус скругления */
+    color: greenyellow;
+    margin-left: auto;
+    margin-right: 10px;
+    margin-top: 20px
+}
+
+.all {
+    background: cornflowerblue; /* Цвет фона */
+    outline: 2px solid #000; /* Чёрная рамка */
+    border: 3px solid #fff; /* Белая рамка */
+    border-radius: 2px; /* Радиус скругления */
+    color: greenyellow;
+    margin-left: auto;
+    margin-right: 10px;
+    margin-top: 20px
+}
+
+.list {
+    text-align: center;
+    width: 250px;
+    height: 100px; /* Размеры */
+
+    background: yellowgreen; /* Цвет фона */
+    outline: 2px solid #000; /* Чёрная рамка */
+    border: 3px solid #fff; /* Белая рамка */
+    border-radius: 10px; /* Радиус скругления */
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px
+
+}
+.banknot {
+    text-align: center;
+    width: 250px;
+    height: 180px; /* Размеры */
+
+    background: blanchedalmond; /* Цвет фона */
+    outline: 2px solid #000; /* Чёрная рамка */
+    border: 3px solid #fff; /* Белая рамка */
+    border-radius: 10px; /* Радиус скругления */
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px
+}
+
+.banknots {
+    text-align: center;
+    margin-right: 25px;
+}
+.nominal {
+    margin-right: 25px;
+}
